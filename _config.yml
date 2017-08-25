@@ -32,4 +32,5 @@ collections:
 ### CONTACT SETTINGS ###
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Binaner Ropes company's website"
+about: "Binaner Ropes companity's website"
+theme: jekyll-theme-cayman
